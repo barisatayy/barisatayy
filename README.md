@@ -7,7 +7,7 @@
 
 ## **Programming languages**
 *Python
--Java
+*Java
 
 ## **Tools**
 *NumPy
