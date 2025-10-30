@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**barisatayy/barisatayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Baris, from Burdur, MAKU, Turkey.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Programming languages*
+*Python
+-Java
+
+## *Tools*: 
+*NumPy
+*Pandas
+*Matplotlib
+*Seaborn
+*Selenium
+*Sklearn
+*Tensorflow
+*Keras
+*Opencv
+*Tkinter
+*Streamlit
+
+## *Frameworks*
+*Flask
+
+## *Web*
+*HTML
+*CSS
+*JS
+
+---
+
+### Contact
+*thebarisatay@gmail.com
