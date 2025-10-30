@@ -1,14 +1,15 @@
 # Hi there 👋
 
 ### I am Baris, from Burdur, MAKU, Turkey.
+**Software Engineer**
 
 ---
 
-## *Programming languages*
+## **Programming languages**
 *Python
 -Java
 
-## *Tools*
+## **Tools**
 *NumPy
 *Pandas
 *Matplotlib
@@ -21,10 +22,10 @@
 *Tkinter
 *Streamlit
 
-## *Frameworks*
+## **Frameworks**
 *Flask
 
-## *Web*
+## **Web**
 *HTML
 *CSS
 *JS
