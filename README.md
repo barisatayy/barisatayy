@@ -4,6 +4,13 @@
 **Software Engineer**
 
 ---
+## **Skills**
+* Machine Learning
+* Deep Learning
+* Data Science
+* Image Processing
+* Web Scraping
+* Feature Engineering
 
 ## **Programming languages**
 * Python
