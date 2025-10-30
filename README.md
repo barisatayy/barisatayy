@@ -8,7 +8,7 @@
 *Python
 -Java
 
-## *Tools*: 
+## *Tools*
 *NumPy
 *Pandas
 *Matplotlib
