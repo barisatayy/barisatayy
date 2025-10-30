@@ -6,31 +6,31 @@
 ---
 
 ## **Programming languages**
-*Python
-*Java
+* Python
+* Java
 
 ## **Tools**
-*NumPy
-*Pandas
-*Matplotlib
-*Seaborn
-*Selenium
-*Sklearn
-*Tensorflow
-*Keras
-*Opencv
-*Tkinter
-*Streamlit
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Selenium
+* Sklearn
+* Tensorflow
+* Keras
+* Opencv
+* Tkinter
+* Streamlit
 
 ## **Frameworks**
-*Flask
+* Flask
 
 ## **Web**
-*HTML
-*CSS
-*JS
+* HTML
+* CSS
+* JS
 
 ---
 
 ### Contact
-*thebarisatay@gmail.com
+* thebarisatay@gmail.com
