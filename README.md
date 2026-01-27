@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 ### I am Baris, from Burdur, MAKU, Turkey.
 **Software Engineer**
@@ -25,6 +25,7 @@
 * Sklearn
 * Tensorflow
 * Keras
+* PyTorch
 * Opencv
 * Tkinter
 * Streamlit
