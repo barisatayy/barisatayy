@@ -9,8 +9,8 @@
 * Deep Learning
 * Data Science
 * Image Processing
-* Web Scraping
-* Feature Engineering
+* Computer Vision
+* Times Series Forecasting
 
 ## **Programming languages**
 * Python
