@@ -1,6 +1,7 @@
 # Hi there
 
 ### I am Baris, from Burdur, MAKU, Turkey.
+### Living in Ankara, Turkey
 **Software Engineer**
 
 ---
